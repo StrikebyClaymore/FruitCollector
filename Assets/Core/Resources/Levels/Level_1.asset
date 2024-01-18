@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3c5964950294e6dadeeec42a54906fa, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  MapSize: {x: 4, y: 7}
+  Map:
+  - Type: 0
+    Position: {x: 2, y: 1, z: 0}
+  - Type: 1
+    Position: {x: 0, y: 3, z: 0}
+  - Type: 0
+    Position: {x: 0, y: 1, z: 0}
+  - Type: 1
+    Position: {x: 1, y: 5, z: 0}
+  - Type: 0
+    Position: {x: 3, y: 4, z: 0}
+  TractorStartPosition: {x: 0, y: 0, z: 0}
+  TractorStartDirection: {x: 0, y: 1}
+  Time: 20
+  Income: 100
+  Price: 0

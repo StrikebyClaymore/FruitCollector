@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c37534425bd43f7a0622b161c0a1179, type: 3}
+  m_Name: GameDatabase
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: -1616504111, guid: e3035db9917f11b4fa630edfbe740371, type: 3}
+  - {fileID: 1168421052, guid: e3035db9917f11b4fa630edfbe740371, type: 3}
+  - {fileID: 260832569, guid: e3035db9917f11b4fa630edfbe740371, type: 3}
+  Levels:
+  - {fileID: 11400000, guid: ae5b2b9fe45bb134794f58c26a9b8381, type: 2}
+  - {fileID: 11400000, guid: 8857f7db6f0050e40bb236ede0dcefbb, type: 2}
+  - {fileID: 11400000, guid: a2f6d1fc012976e4ea1db0196dad1145, type: 2}
+  MiniGameConfig: {fileID: 11400000, guid: 201a8b6ec1a03dc4cb45856126e5c86e, type: 2}
